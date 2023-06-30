@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4545b08f.css",
-    "main.js": "/react-gh-pages/static/js/main.667e4e75.js",
-    "static/js/787.47065f3a.chunk.js": "/react-gh-pages/static/js/787.47065f3a.chunk.js",
-    "static/media/IMG_9593.jpeg": "/react-gh-pages/static/media/IMG_9593.24caae1c9d8c724605ad.jpeg",
-    "static/media/Spotify_icon.svg.png": "/react-gh-pages/static/media/Spotify_icon.svg.32c0c7023997229c3c01.png",
-    "static/media/1658587303instagram-png.png": "/react-gh-pages/static/media/1658587303instagram-png.f0a99f089b23fadacf4e.png",
-    "static/media/youtube-logo-youtube-icon-youtube-symbol-free-free-vector.jpg": "/react-gh-pages/static/media/youtube-logo-youtube-icon-youtube-symbol-free-free-vector.cf372be757e56f2fba29.jpg",
-    "static/media/background.jpeg": "/react-gh-pages/static/media/background.f723cd73a648c83487ba.jpeg",
-    "static/media/apple-music8293.jpg": "/react-gh-pages/static/media/apple-music8293.ce300b88957367864b3d.jpg",
-    "static/media/1655891735tiktok-png-icon.png": "/react-gh-pages/static/media/1655891735tiktok-png-icon.192484b15e0caef6be3d.png",
-    "static/media/10466F70-A633-4E0C-AA29-1777ACE831E6-PhotoRoom.png": "/react-gh-pages/static/media/10466F70-A633-4E0C-AA29-1777ACE831E6-PhotoRoom.55d9e7bb4c7a88eec00b.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.4545b08f.css.map": "/react-gh-pages/static/css/main.4545b08f.css.map",
-    "main.667e4e75.js.map": "/react-gh-pages/static/js/main.667e4e75.js.map",
-    "787.47065f3a.chunk.js.map": "/react-gh-pages/static/js/787.47065f3a.chunk.js.map"
+    "main.css": "/asafy/static/css/main.7966a7b1.css",
+    "main.js": "/asafy/static/js/main.e0131991.js",
+    "static/js/787.47065f3a.chunk.js": "/asafy/static/js/787.47065f3a.chunk.js",
+    "static/media/IMG_9593.jpeg": "/asafy/static/media/IMG_9593.24caae1c9d8c724605ad.jpeg",
+    "static/media/Spotify_icon.svg.png": "/asafy/static/media/Spotify_icon.svg.32c0c7023997229c3c01.png",
+    "static/media/1658587303instagram-png.png": "/asafy/static/media/1658587303instagram-png.f0a99f089b23fadacf4e.png",
+    "static/media/youtube-logo-youtube-icon-youtube-symbol-free-free-vector.jpg": "/asafy/static/media/youtube-logo-youtube-icon-youtube-symbol-free-free-vector.cf372be757e56f2fba29.jpg",
+    "static/media/background.jpeg": "/asafy/static/media/background.f723cd73a648c83487ba.jpeg",
+    "static/media/apple-music8293.jpg": "/asafy/static/media/apple-music8293.ce300b88957367864b3d.jpg",
+    "static/media/1655891735tiktok-png-icon.png": "/asafy/static/media/1655891735tiktok-png-icon.192484b15e0caef6be3d.png",
+    "static/media/10466F70-A633-4E0C-AA29-1777ACE831E6-PhotoRoom.png": "/asafy/static/media/10466F70-A633-4E0C-AA29-1777ACE831E6-PhotoRoom.55d9e7bb4c7a88eec00b.png",
+    "index.html": "/asafy/index.html",
+    "main.7966a7b1.css.map": "/asafy/static/css/main.7966a7b1.css.map",
+    "main.e0131991.js.map": "/asafy/static/js/main.e0131991.js.map",
+    "787.47065f3a.chunk.js.map": "/asafy/static/js/787.47065f3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4545b08f.css",
-    "static/js/main.667e4e75.js"
+    "static/css/main.7966a7b1.css",
+    "static/js/main.e0131991.js"
   ]
 }
