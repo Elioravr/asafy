@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/asafy/static/css/main.7966a7b1.css",
-    "main.js": "/asafy/static/js/main.e0131991.js",
+    "main.js": "/asafy/static/js/main.aa81f43f.js",
     "static/js/787.47065f3a.chunk.js": "/asafy/static/js/787.47065f3a.chunk.js",
     "static/media/IMG_9593.jpeg": "/asafy/static/media/IMG_9593.24caae1c9d8c724605ad.jpeg",
     "static/media/Spotify_icon.svg.png": "/asafy/static/media/Spotify_icon.svg.32c0c7023997229c3c01.png",
@@ -13,11 +13,11 @@
     "static/media/10466F70-A633-4E0C-AA29-1777ACE831E6-PhotoRoom.png": "/asafy/static/media/10466F70-A633-4E0C-AA29-1777ACE831E6-PhotoRoom.55d9e7bb4c7a88eec00b.png",
     "index.html": "/asafy/index.html",
     "main.7966a7b1.css.map": "/asafy/static/css/main.7966a7b1.css.map",
-    "main.e0131991.js.map": "/asafy/static/js/main.e0131991.js.map",
+    "main.aa81f43f.js.map": "/asafy/static/js/main.aa81f43f.js.map",
     "787.47065f3a.chunk.js.map": "/asafy/static/js/787.47065f3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7966a7b1.css",
-    "static/js/main.e0131991.js"
+    "static/js/main.aa81f43f.js"
   ]
 }
