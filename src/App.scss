@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+
+  .background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('../public/background.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: blur(30px);
+    background-position: center;
+  }
+
+  .main-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    .profile-image {
+      background-image: url('../public/IMG_9593.jpeg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 250px;
+      width: 250px;
+      border-radius: 50%;
+      margin: auto;
+      margin-top: 80px;
+    }
+
+    .logo {
+      background-image: url('../public/10466F70-A633-4E0C-AA29-1777ACE831E6-PhotoRoom.png');
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 60px;
+      width: 180px;
+      margin: auto;
+      margin-top: 30px;
+    }
+
+    .links-container {
+      display: flex;
+      flex-wrap: wrap;
+      margin: auto;
+      justify-content: center;
+      margin-top: 30px;
+
+      .link {
+        height: 80px;
+        width: 80px;
+        border-radius: 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        margin: 10px;
+
+        &.youtube {
+          background-size: 115%;
+          background-image: url('../public/youtube-logo-youtube-icon-youtube-symbol-free-free-vector.jpg');
+        }
+        &.instagram {
+          background-size: 90%;
+          background-image: url('../public/1658587303instagram-png.png');
+        }
+        &.spotify {
+          background-image: url('../public/Spotify_icon.svg.png');
+        }
+        &.apple-music {
+          background-image: url('../public/apple-music8293.jpg');
+        }
+        &.tiktok {
+          background-image: url('../public/1655891735tiktok-png-icon.png');
+        }
+      }
+    }
+  }
+}
